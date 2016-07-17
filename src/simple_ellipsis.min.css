@@ -1,0 +1,1 @@
+div.simpleEllipsisContainer{display:block;cursor:pointer}div.simpleEllipsisContainer.simpleEllipsisExpand{background-image:url('images/expand.png');background-repeat:no-repeat}div.simpleEllipsisContainer.simpleEllipsisCollapse{background-image:url('images/collapse.png');background-repeat:no-repeat}.simpleEllipsisHidden{display:none}
