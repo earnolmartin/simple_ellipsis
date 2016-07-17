@@ -3,7 +3,7 @@ jQuery Ellipsis Plugin
 
 ### About
 
-Simple Ellipsis is a jQuery plugin that allows you to ellipsis long sections of text and unellipsis long sections of text with a mouse click.
+Simple Ellipsis is a jQuery plugin that allows you to ellipsis long sections of text & HTML and unellipsis long sections of text & HTML with a mouse click.
 
 Unlike CSS text ellipsis overflow, this plugin allows you to quickly ellipsis, hide, and show the full unellipsis text with a mouse click.
 
